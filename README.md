@@ -1,1 +1,3 @@
-`Object.prototype.tap = function(f) { f(this); return this; };`
+```js
+Object.prototype.tap = function(f) { f(this); return this; };
+```
